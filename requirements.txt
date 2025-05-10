@@ -1,0 +1,9 @@
+matplotlib
+streamlit_option_menu
+numpy 
+pandas
+plotly
+streamlit
+pydantic
+scikit-learn 
+joblib
